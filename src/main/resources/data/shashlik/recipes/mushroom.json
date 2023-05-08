@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "Iki",
+    "ki ",
+    "   "
+  ],
+  "key": {
+    "I": {
+      "item": "shashlik:skewers"
+    },
+    "i": {
+      "item": "minecraft:beef"
+    },
+    "k": {
+      "item": "minecraft:brown_mushroom"
+    }
+  },
+  "result": {
+    "item": "shashlik:mushroom"
+  }
+}

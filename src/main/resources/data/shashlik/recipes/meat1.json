@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "shashlik:meat21"
+  },
+  "result": "shashlik:meat1",
+  "experience": 0.35,
+  "cookingtime": 200
+}
